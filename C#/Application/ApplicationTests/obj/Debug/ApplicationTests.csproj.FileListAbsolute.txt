@@ -1,0 +1,9 @@
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\ApplicationTests.dll
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\ApplicationTests.pdb
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\Application.exe
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\Application.pdb
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\obj\Debug\ApplicationTests.csprojResolveAssemblyReference.cache
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\obj\Debug\ApplicationTests.dll
+c:\users\art\documents\visual studio 2015\Projects\Application\ApplicationTests\obj\Debug\ApplicationTests.pdb
